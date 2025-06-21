@@ -20,7 +20,7 @@
 ## 🖼️ Preview
 
 | Home Screen | Splash Screen | Checkout Screen |
-|-------------|-------------|------------------|
+|-------------|---------------|------------------|
 | ![Home](Screenshots/home.png) | ![Splash](Screenshots/splash.png) | ![Checkout](Screenshots/checkout.png) |
 
 ---
