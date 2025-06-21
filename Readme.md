@@ -1,4 +1,4 @@
-# 🍔 BiteBuzz – Food Delivery App UI/UX
+# 🍔 BiteBuzz – Food Delivery App UI
 
 **BiteBuzz** is a colorful, user-friendly food delivery app UI crafted to simplify the food ordering experience. Designed with a focus on clarity, smooth navigation, and visual appeal, it caters to modern users who value speed, simplicity, and style.
 
@@ -21,7 +21,7 @@
 
 | Home Screen | Splash Screen | Checkout Screen |
 |-------------|-------------|------------------|
-| ![Home](screenshots/home.png) | ![Menu](screenshots/menu.png) | ![Checkout](screenshots/checkout.png) |
+| ![Home](Screenshots/home.png) | ![Menu](Screenshots/menu.png) | ![Checkout](Screenshots/checkout.png) |
 
 ---
 
