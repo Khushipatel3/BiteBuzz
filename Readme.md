@@ -21,7 +21,7 @@
 
 | Home Screen | Splash Screen | Checkout Screen |
 |-------------|-------------|------------------|
-| ![Home](Screenshots/home.png) | ![Menu](Screenshots/menu.png) | ![Checkout](Screenshots/checkout.png) |
+| ![Home](Screenshots/home.png) | ![Menu](Screenshots/splash.png) | ![Checkout](Screenshots/checkout.png) |
 
 ---
 
